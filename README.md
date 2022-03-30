@@ -2,7 +2,7 @@
 
 Project of Vehicle type recognition done by Violaine Courrier, Elise Barrère, Carlos Cortés and Paul Fayard, and supervised by Olivier Grisel and Charles Ollion.
 
-The goal of this project is to be able to distinguish on a picture several types of vehicles (motos, cars, trucks) using deep learning models.
+The goal of this project is to be able to recognize several types of vehicles (motos, cars, trucks) based on their pictures, using deep learning models.
 To go further, we have also tried to recognize the brands of these vehicles.
 
 We can see several applications : make market studies of vehicle brands by region, or evaluate the pollution on a certain road.
