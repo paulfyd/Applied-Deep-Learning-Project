@@ -1,11 +1,12 @@
 # Applied-Deep-Learning-Project
 
-Project of Vehicle type recognition in team of 4
+Project of Vehicle type recognition done by Violaine Courrier, Elise Barrère, Carlos Cortés and Paul Fayard, and supervised by Olivier Grisel and Charles Ollion.
 
-The goal of this project is to be able to distinguish on a picture several types of vehicles (motos, cars, trucks).
+The goal of this project is to be able to distinguish on a picture several types of vehicles (motos, cars, trucks) using deep learning models.
 To go further, we have also tried to recognize the brands of these vehicles.
+
 We can see several applications : make market studies of vehicle brands by region, or evaluate the pollution on a certain road.
-Our project uses pre-trained cnn applied to photos, but to go further, it would be interesting to use model real-time that we could apply to videos.
+Our project uses pre-trained CNN like VGG-16 and is applied to pictures, but to go further, it would be interesting to use real-time model that we could apply to videos.
 
 ## Part 1 : scrapping
 
